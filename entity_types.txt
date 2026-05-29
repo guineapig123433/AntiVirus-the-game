@@ -1,0 +1,7 @@
+normal entity - melee weapon- fire sword (villians)
+normal entity - range weapon- pistol (villians)
+caption entity - range weapon- Usi's (villians)
+elite entity - range weapon- rgp (villians)
+elite caption entity - range weapon- rgp 4 holes (villians)
+elite entity 2- range weapon- all bombs no guns (villians)
+virus metic entity - no weapon- heals other entitys and takes all viruses away (villians)
