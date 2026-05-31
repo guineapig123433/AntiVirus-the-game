@@ -1,0 +1,26 @@
+the map will be sent in sections and the player will be able to go to different citys 
+
+there will be 5 different types 
+
+1. corrupt citys with the virus (villains took over that city)
+
+2. nutral citys can have anything happen (hero have a change to take over of the villains)
+
+3. safe citys will be the same no mater what to have a safe place for the player (Pineriver View)
+
+4. clean city the heros will have control over it (spwans once all villains are gone but there will always be one Astrocoast City)
+
+5. rebel citys only comes when all villains are gone ( it is a harder way to get the bacteria and virus when there is no more corrupt citys)
+
+corrupt citys will have a villain in it and no other villain of the same can spawn in 
+the player in the corrupt citys will be able to get the bacteria and virus parts and all corrupt citys will be gone when all the heros take over and have a small change for rebel citys to spawn one minimum
+
+clean citys will have the poice system and the player is way weaker in the city 
+
+the more kills you get the more poice come but at the max it will be a mark when the player is marked all NPC's will be hostile and attack you until you hide
+
+flying taxis will tp you to other citys 
+
+hotels will like checkpoints in every city 
+
+labs will be places for you to make new viruses bacteria combos and the poitions and resictense to good bacteria
