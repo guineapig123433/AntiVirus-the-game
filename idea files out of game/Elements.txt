@@ -1,0 +1,321 @@
+Classic & Natural Forces
+
+Fire: Inflicts damage-over-time (Burn) and melts frozen barriers.
+
+Ice: Slows enemy movement, freezes targets solid, and shatters brittle armor.
+
+Water: Conducts electricity, puts out fires, and pushes enemies back.
+
+Wind / Air: Launches enemies into the air, deflects projectiles, and increases speed.
+
+Earth: Grants high physical defense, creates rock walls, and causes stuns.
+
+Lightning: Chains damage between clustered targets and short-circuits mechanical foes.
+
+Wood / Nature: Absorbs health, entangles targets in roots, and creates healing zones.
+
+Metal: Magnetizes metallic objects, pierces armor, and reinforces weapon durability.
+
+Sky / Aero: Grants evasion buffs and unlocks airborne combat mechanics.
+
+Stone: Heavily reduces incoming physical impact and causes crushing damage.
+
+Flora: Spawns defensive foliage that blocks projectiles and traps enemies.
+
+Fauna: Summons wild beast characteristics to boost physical speed and melee damage.
+
+Thunder: Emits concussive shockwaves that rupture enemy guard meters.
+
+Frost: Drops environmental temperatures to drain enemy stamina and speed.
+
+Smoke: Obstructs enemy line-of-sight, lowers accuracy, and allows for stealth.
+
+☣️ Hazard, Fluid & Alchemical Elements
+
+Poison: Slowly drains health over a long duration; highly effective on bosses.
+
+Acid / Corrosive: Disintegrates physical armor, shields, and robotic machinery.
+
+Venom: A faster, more lethal variant of poison that halts health regeneration.
+
+Oil / Tar: Heavy fluid that drastically slows enemies and amplifies fire damage.
+
+Steam: Scorching vapor that blinds targets and deals moderate, un-blockable damage.
+
+Ash: Chokes targets to reduce their stamina and blinds their vision.
+
+Gas: Fills areas with combustible vapor that explodes when touched by fire.
+
+Slime / Ooze: Stics to enemies to reduce jump height and attack speed.
+
+Mud: Combines Water + Earth to ground flying targets and reduce movement.
+
+Rust: Specifically targets metal armor and weapons, drastically lowering their stats.
+
+Sulfur: Emits toxic fumes that induce vomiting or stun animations in organic targets.
+
+Ink: Blinds the player's screen or enemy vision cones in tactical games.
+
+Mercury: Liquid metal that poisons targets while conducting immense electricity.
+
+Methane: Creates highly volatile, explosive gas pockets on the battlefield.
+
+Salt: Dehydrates organic enemies and melts ice-based creatures instantly.
+
+🌌 Cosmic, Celestial & Space-Time Elements
+
+Gravity: Pulls enemies together into a central point or crushes them to the floor.
+
+Time / Chrono: Speeds up allies, freezes enemies in place, or rewinds damage.
+
+Space / Void: Allows for short-range teleportation and bypasses physical barriers.
+
+Cosmic: Summons celestial debris to deal massive, widespread physical damage.
+
+Solar: Blinds enemies with intense light and deals high radiant damage.
+
+Lunar: Synergizes with stealth, increases critical hit rates, and induces sleep.
+
+Stellar: Spawns unpredictable energy fields that shift enemy positions.
+
+Eclipse: Combines solar and lunar traits to steal enemy buffs and deal hybrid damage.
+
+Nebula: Creates cloud hazards in space that disrupt radar and guidance systems.
+
+Quasar: High-intensity cosmic radiation that tears down energy shields over time.
+
+Meteorite: High-impact physical element that leaves burning lava pools upon crash.
+
+Wormhole: Links two physical spaces together for instant tactical troop movement.
+
+Singularity: Extreme gravity localized to one pixel, crushing anything that touches it.
+
+Comet: Ice and rock hybrid that freezes targets while dealing high physical impact.
+
+Supernova: High-tier elemental burst that wipes out enemy shields across the entire map.
+
+⛪ Spiritual, Alignment & Divine Elements
+
+Holy / Radiant: Heals party members and deals bonus damage to undead or demonic entities.
+
+Shadow / Dark: Conceals the user, blinds targets, and inflicts instant-death triggers.
+
+Necrotic / Decay: Withers enemy stats, prevents healing, and raises fallen foes.
+
+Aether / Spirit: Bypasses physical armor to strike the target's mana or magical pool.
+
+Chaos: Triggers a random status effect or unpredictable damage value upon impact.
+
+Order / Law: Normalizes chaotic battlefield conditions and dispels enemy buffs.
+
+Blood: Consumes the user's own health to deal massive, un-mitigatable damage.
+
+Twilight / Dusk: Alternates mechanics based on the game's in-game day/night cycle.
+
+Plague: Highly contagious element that spreads between enemies when they touch.
+
+Divine / Celestial: Pure un-resistable damage used by boss characters and gods.
+
+Demonic / Abyssal: Corrupts the terrain, dealing continuous damage to anyone standing on it.
+
+Karma: Returns a percentage of damage taken directly back to the attacker.
+
+Soul: Strikes the target's maximum health pool directly, bypassing temporary shields.
+
+Illusion: Creates decoy targets that distract enemy aggression away from the player.
+
+Curse: Lowers all elemental resistances of the target by a massive percentage.
+
+🧠 Mental, Psychological & Emotional Elements
+
+Psychic / Mind: Attacks the target's mental state to cause confusion or hallucinations.
+
+Charm: Forces enemies to turn against their allies for a brief period.
+
+Fear: Causes enemies to lose control and run away from the player.
+
+Sleep: Renders enemies completely inactive until they take damage.
+
+Rage / Berserk: Boosts attack power drastically but strips away user control.
+
+Confusion: Inverts the enemy's directional controls or makes them attack randomly.
+
+Hate / Malice: Targets a specific unit to deal scaling damage based on how many allies have died.
+
+Apathy: Wipes away enemy mana pools and prevents them from using special skills.
+
+Grief / Sorrow: Lowers enemy attack speed and movement speed due to heavy depression.
+
+Envy: Steals the positive status effects of the target and applies them to the caster.
+
+Pride: Increases player damage output as long as their health remains at 100%.
+
+Greed: Increases gold drops from enemies killed with this specific elemental spell.
+
+Sloth: Locks enemy cooldowns, making them wait twice as long to reuse abilities.
+
+Hypnosis: Puts the target into a trance, allowing you to steal their items undetected.
+
+Terror: High-tier fear that completely paralyzes the target in place.
+
+🔬 Scientific, Sci-Fi & Nuclear Elements
+
+Radiation: Mutates targets, lowers maximum health capacity, and spreads to nearby units.
+
+Plasma: Extremely hot ionized gas that strips away energy shields instantly.
+
+Laser / Photon: Highly precise, long-range piercing beams that melt armor.
+
+Sonic / Sound: Uses soundwaves to disrupt spell casting and disorient enemy targeting.
+
+Magnetic: Pulls metallic enemies together or disrupts their internal electronics.
+
+Pulse / EMP: Disables active enemy tech, shields, and robotic units temporarily.
+
+Cyber / Digital: Overrides enemy programming to hack robotic units and turrets.
+
+Kinetic: Converts movement and physical impact into raw, shield-breaking power.
+
+Quantum: Causes an enemy to exist in two states, taking double damage from the next hit.
+
+Nanite: Microscopic robots that slowly eat away enemy health or repair mechanical allies.
+
+Bio / Organic: Mutates biological enemies while offering massive heals to alien races.
+
+Tesla: Shoots continuous electrical arcs that jump to the nearest five targets.
+
+Antimatter: Destroys physical matter on contact, dealing massive damage to heavily armored bosses.
+
+Sub-Zero / Absolute Zero: Freezes molecular movement, preventing enemies from cooling down or moving.
+
+Thermal: Manages heat dissipation, overheating enemy weapons so they cannot fire.
+
+💎 Mineral, Material & Solid Elements
+
+Crystal: Traps enemies in reflective shards and deflects incoming energy beams.
+
+Glass: Deals massive bleeding or piercing damage but breaks easily.
+
+Sand: Blinds enemies with dust storms and erodes defenses over time.
+
+Magma / Lava: Combines Fire + Earth to melt armor and leave lingering ground hazards.
+
+Obsidian: Extremely sharp volcanic glass that causes un-healable bleeding wounds.
+
+Amber: Traps small enemies or projectiles inside a hardened sticky resin.
+
+Sulfur: Explodes violently when mixed with fire or friction elements.
+
+Ice-Rock: High-density frozen boulders that crush and freeze simultaneously.
+
+Bone: Used by necromancer types to build physical shields or projectile shards.
+
+Tar: Super-sticky black substance that completely halts a target's dash mechanics.
+
+🌪️ Exotic, Mythological & Abstract Elements
+
+Force: Pure physical telekinetic energy used to push, pull, or throw objects.
+
+Mana / Ether: Pure magical energy that interacts directly with spellcasting pools.
+
+Mirage: Creates illusions that distort physical distances, causing attacks to miss.
+
+Echo: Repeats the damage of the previous attack exactly two seconds later.
+
+Nether: Dark underworld energy that drains player healing item effectiveness.
+
+Prismatic: Cycles through all elements every few seconds to hit shifting weaknesses.
+
+Rift: Tears open spatial cracks that suck nearby projectiles out of the arena.
+
+Mist: Lowers accuracy across the whole map while boosting water-element damage.
+
+Soundwave: Deals zero damage but creates a massive knockback to keep enemies away.
+
+Shock: Delivers a physical jolt that breaks an enemy's active defensive stance.
+
+⚔️ Combat Weaponry & Physical Elements
+
+Slashing: Sharp physical element that cuts flesh, causing bleeding-over-time.
+
+Piercing: Pointed physical element that easily bypasses heavy metal armor plates.
+
+Blunt / Crushing: Heavy physical impact that shatters shields and breaks bones.
+
+Ballistic: Projectile-based physical damage that excels at long ranges.
+
+Explosive: Deals massive area-of-effect damage and knocks down all small targets.
+
+Cleaving: Distributes physical melee damage to all enemies standing in a front arc.
+
+Chop: Heavy vertical physical element designed to break shields and wooden defenses.
+
+Bleed: Continuous physical health drain that gets worse the more the target moves.
+
+Gouge: Drastically reduces the enemy's physical defense stat for a duration.
+
+Maim: Targets limbs to heavily decrease enemy movement speed or attack speed.
+
+🌀 Advanced Fusions & Mythic Hybrids
+
+Frostfire: Burns targets while simultaneously freezing them to lock their actions.
+
+Plasma-Ice: Sci-fi element that uses focused super-cooled lasers to freeze at a distance.
+
+Thunderfire: Combines explosive fire bursts with concussive audio shockwaves.
+
+Sandstorm: Continuous geo-wind damage that chips health and blinds vision.
+
+Acid-Rain: Corrupts wide areas, melting armor across entire armies at once.
+
+Shadow-Flame: Dark fire that burns both physical health and magical mana pools.
+
+Holy-Lightning: Divine electricity that heals allies while shocking evil forces.
+
+Bio-Acid: Organic chemical burn that melts armor and prevents health regeneration.
+
+Void-Chill: Sucks the heat out of an entire room, creating absolute darkness and freeze.
+
+Magma-Pulse: Sci-fi volcanic weapon that launches molten rock using magnetic force.
+
+Steam-Blast: Launches high-pressure boiling mist to blind and scald targets.
+
+Rust-Cloud: Airborne gas that instantly reduces the defense of all armored units inside.
+
+Blood-Magic: Converts the life force of fallen foes directly into magical energy.
+
+Chronos-Dust: Magical sand that slows down time for anyone caught inside the cloud.
+
+Crystal-Light: Reflects holy lasers off internal crystal matrices to hit multiple targets.
+
+🃏 Meta & Rules-Breaking Elements
+
+Null / Typeless: Deals raw flat damage that ignores every single resistance in the game.
+
+Glitch / Error: Scrambles enemy UI, randomizes their attacks, or alters sprite data.
+
+Mimic: Copies the elemental type of whatever creature it last hit.
+
+Inversion: Turns an enemy's elemental strengths into weaknesses and vice-versa.
+
+Bane: Deals triple damage to one hyper-specific enemy type (e.g., Dragons, Mechs).
+
+Drain / Siphon: Directly converts damage dealt into health, mana, or stamina for the user.
+
+Reflect: Bounces the next incoming elemental attack directly back at the caster.
+
+Silence: Prevents the target from casting any magic or elemental abilities.
+
+Pacify: Prevents the target from initiating any physical or aggressive actions.
+
+Blind: Reduces the target's attack accuracy to zero for a short time.
+
+Crippled: Lock's down the target's movement abilities, dashes, and dodges.
+
+Stun: Completely stops all enemy movement and action for a brief duration.
+
+Paralyze: Grants a percentage chance for the enemy's attack to fail completely.
+
+Petrify: Turns the target into stone, stopping them but massively raising their defense.
+
+Doom: Starts a hidden countdown timer; when it reaches zero, the target dies instantly.

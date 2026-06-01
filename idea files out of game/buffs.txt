@@ -1,0 +1,109 @@
+🛡️ Protection & Ward Buffs
+
+Physical Protection: +15% damage reduction against physical swords, clubs, and arrows.
+
+Elemental Ward: +15% protection against incoming Fire, Ice, and Lightning damage.
+
+Status Shroud: +25% resistance to negative effects like Poison, Stun, and Paralysis.
+
+Impact Dampener: +20% reduction to knockback distance and stagger duration.
+
+Critical Deflector: +15% protection against weak-point and critical hit damage.
+
+Flame Guard: +30% specialized protection against burning damage and lava hazards.
+
+Frost Insulation: +30% specialized protection against slowing effects and freezing temperatures.
+
+Corrosive Barrier: +40% armor protection against shield-melting acid attacks.
+
+Kinetic Dissipation: +15% reduction to falling damage and high-velocity projectile impacts.
+
+Curse Absorb: +20% protection against magical debuffs and stat-lowering hexes.
+
+⚔️ Offense & Multiplier Buffs
+
+Melee Amp: +15% damage to all physical close-quarters weapon attacks.
+
+Critical Ignition: +20% damage multiplier to all critical hits and backstabs.
+
+Elemental Attunement: +15% damage boost to all active magic and spellcasting skills.
+
+Armor Penetration: +25% physical piercing, bypassing a portion of enemy armor values.
+
+Flank Advantage: +15% damage increase when attacking an enemy from behind.
+
+Heavy Momentum: +20% damage increase to slow, charged, or heavy weapon attacks.
+
+Status Affliction: +15% chance to successfully trigger status effects on enemies.
+
+Splash Radius: +10% area-of-effect size to all explosive and shockwave attacks.
+
+Elite Hunter: +30% damage multiplier when targeting boss enemies and mini-bosses.
+
+Vampiric Strike: +10% lifesteal, converting a portion of damage dealt into health.
+
+⚡ Mobility & Speed Buffs
+
+Haste: +15% movement speed across all terrain types.
+
+Evasion Core: +20% dodge chance, giving a flat probability to completely avoid attacks.
+
+Frenzy: +15% attack speed, reducing the wind-up time of weapons and spells.
+
+Endurance Run: +25% sprint duration, reducing the cost of continuous running.
+
+Dash Extension: +30% distance covered during tactical dodges and dashes.
+
+High Leap: +20% jump height capacity to easily clear obstacles and hazards.
+
+Wall Friction: +15% parkour and vertical climbing speed.
+
+Streamline: +40% movement speed while swimming or underwater.
+
+Counter Reflex: +15% attack speed immediately following a successful block or parry.
+
+Shadow Step: +20% movement speed while remaining in a stealth state.
+
+🔋 Recovery & Economy Buffs
+
+Vigor Renewal: +15% passive health regeneration per second while out of combat.
+
+Energy Siphon: +20% magic power/mana regeneration rate.
+
+Stamina Vent: +15% physical stamina recovery speed.
+
+Item Catalyst: +25% effectiveness, healing yield, or duration of used consumables.
+
+Chronos Flux: +15% cooldown reduction, allowing skills to be reused faster.
+
+Night Sight: 100% vision range in pitch darkness, removing accuracy penalties.
+
+Radar Sweep: +30% detection range for hidden loot chests and resource nodes.
+
+Purge Rate: +50% faster recovery from poison and toxin depletion timers.
+
+Max Capacity: +15% ceiling expansion to maximum stamina and energy pools.
+
+Bounty Finder: +10% increased drop rate for rare items and monster components.
+
+🃏 Unique Hybrid Meta-Buffs
+
+Scholar’s Focus: +15% experience points gained from all sources.
+
+Thick Clot: 100% immunity to bleeding-over-time status effects.
+
+Thermal Core: 100% immunity to freezing and joint-locking movement penalties.
+
+Magnetic Pull: +20% automatic item collection radius for coins and materials.
+
+Desperation Armor: +25% physical protection when current health drops below 30%.
+
+Second Chance: Automatically revives the user with 15% health once per dungeon floor.
+
+Blind Fighting: +15% combat accuracy while under the blind status effect.
+
+Midas Touch: +10% extra gold currency dropped by defeated enemies.
+
+Plated Spine: +15% damage reduction against unexpected surprise attacks from behind.
+
+Extension Matrix: +15% duration boost to all temporary active buffs and spell enhancements.

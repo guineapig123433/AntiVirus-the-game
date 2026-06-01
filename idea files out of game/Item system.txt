@@ -1,0 +1,96 @@
+Bact(buffs)
+
+bact: will be dropped from a basic entity and the parts will be random percents and all ideas on the parts of a bacterial cell, the percents will be shown on the entity when the player uses a bio scanner on them . the higher level of the basic entity will have higher tiers up to tier X or 10 
+
+Bact mesh(crafting mats)
+
+A mesh that is dropped from basic and elite entites  that will come in tiers l to x mesh will have a 65% drop and is used for a lot of the crafting things.
+
+Viruses(effects)
+
+Viruses will be dropped by a elite entity and willbe just like how the bact works but the viruses will be an exact thing like biofrost core partand the biofrost RNA for ex and the viruses will be called by names then a random gamble from the bact.
+
+Organs(abities)
+
+once killing a boss will give you one organ out of many and the player can only pick out one  it will give out an ability 
+
+knowledge perks(perks)
+
+make the player unlock new things like new viruses to be found and built and new organ perks that can get viruses that glow red that can buff the organs power.
+
+Player UI Inv
+
+bac starting is at 2 and the virus at 1 then over time the organs will make it have more holded 
+
+Good bac system
+
+there will be an bar that will slowly grow over time at at the time in the lines 
+pass then the player will get nerfs and then they will get so far they lose bac 
+from them and have a higher change to get bac mesh up to 95% but gain less in 
+one kill.
+
+Specials
+
+specials are a type of tier that will always be at tier l but can go up to tier 
+x but will need the Special Lab Upgrade Station. the Special Lab Upgrade Station
+will be unlockable one you find your first Special item. there will be Special 
+viruses that will give out powerfully abilities then the effects. Special bact
+ will be rare as they will not have any negative buffs. and Special bosses will 
+have Special organs that will have buffs and a effect with it as well as being 
+upgraded. you will also need to have 3 knowledge perks to unlock it but you can 
+still get it but you will not be able to use it and you will need to get a Special  
+to get the perk shown to use them that costs 2 knowledge perks.
+
+
+Crafting
+
+
+Bact merging station
+
+a station that uses bact parts and will have 5 parts max and the parts each will give a diff buff like (Protection bact nucleoid l )  that has +15% protection  and the next part is a (Frost bact capsule lll) that has +23% frost res -5% protection -5% wither res and then bact mesh lll that will fill in the other parts as null is there is emety spots if the bact uses five parts it needs no bact mesh the bash mesh tier will be maxed on the highest tier bact part in the merge. 
+
+
+Virus creator station
+
+you need all four parts of the virus (RNA, protein spikes, capsid, envelope) and they all need to be in the same tier and the name of the parts need to match. the virus will have a damage element that will buff your damage but at tiers V and X their will be a nerf for the virus like tier 5 will have 1 nerf up and on and at 10 it will have 2 nerfs. 
+
+
+Virus Tier upgrade Station
+
+this will be upgrading the tier of virus parts so they all match when you create a virus. to upgrade it you will need the part to upgrade and the tier you want by the type of bact mesh tier if you want your 1 tier fostrite RNA to be tier lV then you need bact mesh lV to make it and you need more mesh to more tiers away it is from the normal one like if you have a tier l virus then you need 
+
+
+Perk researcher 
+
+you use your viruses to gain an amount of an knowledge perk up to 0.1 - 0.9 losing the virus in the process 
+
+
+Special Lab Upgrade Station
+
+it will use vact mesh and back mesh to upgrade special things to higher tier acting like the virus upgrade station
+
+
+Tools(unlocked through perks) 
+
+
+bio scanner 
+
+scans on an entity to see the percent of its drops
+
+
+injector
+
+makes it have a higher change to not drop bac mesh 
+
+charges by bac mesh higher tiers will get a higher change to not drop bac mesh
+
+
+moldy transformer
+
+uses bac mesh to make food become moldy to eat right away
+
+
+Good bac killer
+
+it will use lots of bac mesh to kill the good bac so that the player can have there bac back and if they go far enough in the game they will get vac mesh that can be used to fully clear the bar but will need a knowledge perk for that
+
