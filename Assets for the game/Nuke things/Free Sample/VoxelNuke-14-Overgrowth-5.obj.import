@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/VoxelNuke-14-Overgrowth-5.obj-87b3a233bbc1fb1824777abd0aa2028e.mesh"
+
+[deps]
+
+files=[ "res://.import/VoxelNuke-14-Overgrowth-5.obj-87b3a233bbc1fb1824777abd0aa2028e.mesh" ]
+
+source_file="res://Assets for the game/Nuke things/Free Sample/VoxelNuke-14-Overgrowth-5.obj"
+dest_files=[ "res://.import/VoxelNuke-14-Overgrowth-5.obj-87b3a233bbc1fb1824777abd0aa2028e.mesh", "res://.import/VoxelNuke-14-Overgrowth-5.obj-87b3a233bbc1fb1824777abd0aa2028e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

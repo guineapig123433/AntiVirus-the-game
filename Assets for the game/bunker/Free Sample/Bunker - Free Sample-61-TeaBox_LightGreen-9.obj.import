@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Bunker - Free Sample-61-TeaBox_LightGreen-9.obj-7ff317d574ad6c0eea0c1b46a72b550b.mesh"
+
+[deps]
+
+files=[ "res://.import/Bunker - Free Sample-61-TeaBox_LightGreen-9.obj-7ff317d574ad6c0eea0c1b46a72b550b.mesh" ]
+
+source_file="res://Assets for the game/bunker/Free Sample/Bunker - Free Sample-61-TeaBox_LightGreen-9.obj"
+dest_files=[ "res://.import/Bunker - Free Sample-61-TeaBox_LightGreen-9.obj-7ff317d574ad6c0eea0c1b46a72b550b.mesh", "res://.import/Bunker - Free Sample-61-TeaBox_LightGreen-9.obj-7ff317d574ad6c0eea0c1b46a72b550b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Bunker - Free Sample-27-Bottle_Gray_Stripe-6.obj-6cc100570c83b9aa8e3cf663e807d24f.mesh"
+
+[deps]
+
+files=[ "res://.import/Bunker - Free Sample-27-Bottle_Gray_Stripe-6.obj-6cc100570c83b9aa8e3cf663e807d24f.mesh" ]
+
+source_file="res://Assets for the game/bunker/Free Sample/Bunker - Free Sample-27-Bottle_Gray_Stripe-6.obj"
+dest_files=[ "res://.import/Bunker - Free Sample-27-Bottle_Gray_Stripe-6.obj-6cc100570c83b9aa8e3cf663e807d24f.mesh", "res://.import/Bunker - Free Sample-27-Bottle_Gray_Stripe-6.obj-6cc100570c83b9aa8e3cf663e807d24f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

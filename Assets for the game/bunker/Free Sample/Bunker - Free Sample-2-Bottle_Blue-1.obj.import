@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Bunker - Free Sample-2-Bottle_Blue-1.obj-ed3034e61b6187b51dce28040e5111dd.mesh"
+
+[deps]
+
+files=[ "res://.import/Bunker - Free Sample-2-Bottle_Blue-1.obj-ed3034e61b6187b51dce28040e5111dd.mesh" ]
+
+source_file="res://Assets for the game/bunker/Free Sample/Bunker - Free Sample-2-Bottle_Blue-1.obj"
+dest_files=[ "res://.import/Bunker - Free Sample-2-Bottle_Blue-1.obj-ed3034e61b6187b51dce28040e5111dd.mesh", "res://.import/Bunker - Free Sample-2-Bottle_Blue-1.obj-ed3034e61b6187b51dce28040e5111dd.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

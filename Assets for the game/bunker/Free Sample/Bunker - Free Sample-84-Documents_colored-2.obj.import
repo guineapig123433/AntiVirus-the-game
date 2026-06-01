@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Bunker - Free Sample-84-Documents_colored-2.obj-3fc61d491718200bc5d551f25467f6ae.mesh"
+
+[deps]
+
+files=[ "res://.import/Bunker - Free Sample-84-Documents_colored-2.obj-3fc61d491718200bc5d551f25467f6ae.mesh" ]
+
+source_file="res://Assets for the game/bunker/Free Sample/Bunker - Free Sample-84-Documents_colored-2.obj"
+dest_files=[ "res://.import/Bunker - Free Sample-84-Documents_colored-2.obj-3fc61d491718200bc5d551f25467f6ae.mesh", "res://.import/Bunker - Free Sample-84-Documents_colored-2.obj-3fc61d491718200bc5d551f25467f6ae.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

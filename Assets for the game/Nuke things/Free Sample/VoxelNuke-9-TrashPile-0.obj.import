@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/VoxelNuke-9-TrashPile-0.obj-323555880b00c107685dab9d57caf02f.mesh"
+
+[deps]
+
+files=[ "res://.import/VoxelNuke-9-TrashPile-0.obj-323555880b00c107685dab9d57caf02f.mesh" ]
+
+source_file="res://Assets for the game/Nuke things/Free Sample/VoxelNuke-9-TrashPile-0.obj"
+dest_files=[ "res://.import/VoxelNuke-9-TrashPile-0.obj-323555880b00c107685dab9d57caf02f.mesh", "res://.import/VoxelNuke-9-TrashPile-0.obj-323555880b00c107685dab9d57caf02f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/VoxelNuke-17-RoadTile-0.obj-5dc571fe3a5083ff84a9bfe0d869b814.mesh"
+
+[deps]
+
+files=[ "res://.import/VoxelNuke-17-RoadTile-0.obj-5dc571fe3a5083ff84a9bfe0d869b814.mesh" ]
+
+source_file="res://Assets for the game/bunker/Free Sample/VoxelNuke-17-RoadTile-0.obj"
+dest_files=[ "res://.import/VoxelNuke-17-RoadTile-0.obj-5dc571fe3a5083ff84a9bfe0d869b814.mesh", "res://.import/VoxelNuke-17-RoadTile-0.obj-5dc571fe3a5083ff84a9bfe0d869b814.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

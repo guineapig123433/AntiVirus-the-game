@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/VoxelNuke-8-Door.obj-11e427ecf6d8f6983f05ea5d129d78ff.mesh"
+
+[deps]
+
+files=[ "res://.import/VoxelNuke-8-Door.obj-11e427ecf6d8f6983f05ea5d129d78ff.mesh" ]
+
+source_file="res://Assets for the game/Nuke things/Free Sample/VoxelNuke-8-Door.obj"
+dest_files=[ "res://.import/VoxelNuke-8-Door.obj-11e427ecf6d8f6983f05ea5d129d78ff.mesh", "res://.import/VoxelNuke-8-Door.obj-11e427ecf6d8f6983f05ea5d129d78ff.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

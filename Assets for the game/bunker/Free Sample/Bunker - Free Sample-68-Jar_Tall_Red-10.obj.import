@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Bunker - Free Sample-68-Jar_Tall_Red-10.obj-47f3f284bfe578431a620ce448837107.mesh"
+
+[deps]
+
+files=[ "res://.import/Bunker - Free Sample-68-Jar_Tall_Red-10.obj-47f3f284bfe578431a620ce448837107.mesh" ]
+
+source_file="res://Assets for the game/bunker/Free Sample/Bunker - Free Sample-68-Jar_Tall_Red-10.obj"
+dest_files=[ "res://.import/Bunker - Free Sample-68-Jar_Tall_Red-10.obj-47f3f284bfe578431a620ce448837107.mesh", "res://.import/Bunker - Free Sample-68-Jar_Tall_Red-10.obj-47f3f284bfe578431a620ce448837107.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
