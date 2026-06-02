@@ -2,20 +2,39 @@
 
 [ext_resource type="PackedScene" uid="uid://c4x6c7oq2vm0x" path="res://player.tscn" id="1_glv2v"]
 
-[sub_resource type="PlaneMesh" id="PlaneMesh_uu6xs"]
+[sub_resource type="BoxMesh" id="BoxMesh_glv2v"]
 
-[sub_resource type="BoxShape3D" id="BoxShape3D_r0du0"]
+[sub_resource type="ConcavePolygonShape3D" id="ConcavePolygonShape3D_glv2v"]
+data = PackedVector3Array(-0.5, 0.5, 0.5, 0.5, 0.5, 0.5, -0.5, -0.5, 0.5, 0.5, 0.5, 0.5, 0.5, -0.5, 0.5, -0.5, -0.5, 0.5, 0.5, 0.5, -0.5, -0.5, 0.5, -0.5, 0.5, -0.5, -0.5, -0.5, 0.5, -0.5, -0.5, -0.5, -0.5, 0.5, -0.5, -0.5, 0.5, 0.5, 0.5, 0.5, 0.5, -0.5, 0.5, -0.5, 0.5, 0.5, 0.5, -0.5, 0.5, -0.5, -0.5, 0.5, -0.5, 0.5, -0.5, 0.5, -0.5, -0.5, 0.5, 0.5, -0.5, -0.5, -0.5, -0.5, 0.5, 0.5, -0.5, -0.5, 0.5, -0.5, -0.5, -0.5, 0.5, 0.5, 0.5, -0.5, 0.5, 0.5, 0.5, 0.5, -0.5, -0.5, 0.5, 0.5, -0.5, 0.5, -0.5, 0.5, 0.5, -0.5, -0.5, -0.5, 0.5, 0.5, -0.5, 0.5, -0.5, -0.5, -0.5, 0.5, -0.5, 0.5, 0.5, -0.5, -0.5, -0.5, -0.5, -0.5)
+
+[sub_resource type="Sky" id="Sky_glv2v"]
+
+[sub_resource type="Environment" id="Environment_glv2v"]
+background_mode = 1
+background_color = Color(0.6732845, 0.7894729, 0.9822431, 1)
+sky = SubResource("Sky_glv2v")
+ambient_light_color = Color(0.7741685, 0.9095359, 0.95301646, 1)
+ambient_light_energy = 3.14
+reflected_light_source = 2
+ssr_enabled = true
+ssao_enabled = true
+ssil_enabled = true
+sdfgi_enabled = true
+fog_light_color = Color(0.62473404, 0.6573057, 0.707971, 1)
 
 [node name="Node3D" type="Node3D" unique_id=1344835849]
 
-[node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=335532008]
-transform = Transform3D(10.423083, 0, 0, 0, 1, 0, 0, 0, 8.747473, 0, 0, 0)
-mesh = SubResource("PlaneMesh_uu6xs")
-
-[node name="Area3D" type="Area3D" parent="MeshInstance3D" unique_id=1105122842]
-
-[node name="CollisionShape3D" type="CollisionShape3D" parent="MeshInstance3D/Area3D" unique_id=1520878888]
-transform = Transform3D(1.9835286, 0, 0, 0, 0.0021188345, 0, 0, 0, 2.0069945, 0, 0, 0)
-shape = SubResource("BoxShape3D_r0du0")
-
 [node name="Player" parent="." unique_id=426113910 instance=ExtResource("1_glv2v")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.9952717, 0)
+
+[node name="floor" type="MeshInstance3D" parent="." unique_id=1885133599]
+transform = Transform3D(20, 0, 0, 0, 0.9343088, 0, 0, 0, 20, 0, 0, 0)
+mesh = SubResource("BoxMesh_glv2v")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="floor" unique_id=1449708901]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="floor/StaticBody3D" unique_id=1964416441]
+shape = SubResource("ConcavePolygonShape3D_glv2v")
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="." unique_id=995872936]
+environment = SubResource("Environment_glv2v")
