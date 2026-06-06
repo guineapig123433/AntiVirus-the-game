@@ -29,6 +29,7 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.9952717, 0)
 
 [node name="floor" type="MeshInstance3D" parent="." unique_id=1885133599]
 transform = Transform3D(20, 0, 0, 0, 0.9343088, 0, 0, 0, 20, 0, 0, 0)
+layers = 3
 mesh = SubResource("BoxMesh_glv2v")
 
 [node name="StaticBody3D" type="StaticBody3D" parent="floor" unique_id=1449708901]
